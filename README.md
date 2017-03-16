@@ -1,0 +1,2 @@
+# ConversionDoc
+使用apace的poi方案实现从数据库读取数据，以表格的形式写入word文档
